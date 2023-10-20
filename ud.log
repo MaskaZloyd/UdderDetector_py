@@ -1,0 +1,16 @@
+[32m[20-10-2023 13:10:34] INFO    : test info log[0m
+[31m[20-10-2023 13:10:34] ERROR   : test error log[0m
+[32m[20-10-2023 13:10:43] INFO    : test info log[0m
+[31m[20-10-2023 13:10:43] ERROR   : test error log[0m
+[32m[20-10-2023 13:10:52] INFO    : test info log[0m
+[31m[20-10-2023 13:10:52] ERROR   : test error log[0m
+[32m[20-10-2023 13:23:45] INFO    : test info log[0m
+[31m[20-10-2023 13:23:45] ERROR   : test error log[0m
+[32m[20-10-2023 13:24:03] INFO    : test info log[0m
+[31m[20-10-2023 13:24:03] ERROR   : test error log[0m
+[32m[20-10-2023 13:24:59] INFO    : test info log[0m
+[31m[20-10-2023 13:24:59] ERROR   : test error log[0m
+[32m[20-10-2023 13:24:59] INFO    : received Test message[0m
+[32m[20-10-2023 13:25:40] INFO    : test info log[0m
+[31m[20-10-2023 13:25:40] ERROR   : test error log[0m
+[32m[20-10-2023 13:25:40] INFO    : received - Test message[0m
